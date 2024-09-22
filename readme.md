@@ -66,3 +66,6 @@ Demo
 Watch the video demo of the AI Agent in action:
 
 ## Video Demo
+
+https://github.com/user-attachments/assets/e22958bd-1f19-434e-a550-ddf85bda7847
+

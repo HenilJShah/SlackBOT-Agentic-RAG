@@ -1,1 +1,0 @@
-# Django-ready-to-go
